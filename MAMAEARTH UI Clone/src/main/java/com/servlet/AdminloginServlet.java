@@ -27,6 +27,7 @@ public class AdminloginServlet extends HttpServlet {
         response.setContentType("text/html");
 
         PrintWriter out = response.getWriter();
+        PrintWriter out = response.getWriter();
 
         String email =
         request.getParameter("email");
