@@ -43,8 +43,7 @@ public class AddProductServlet extends HttpServlet {
 
             Class.forName(
             "com.mysql.cj.jdbc.Driver");
-            Class.forName(
-                    "com.mysql.cj.jdbc.Driver");
+            
 
             // CONNECTION
 
